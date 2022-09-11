@@ -9,7 +9,7 @@ So, I would love to work with the organisation and give my full potential to acc
 Anyone reading this can reach me out at :- 546gauravdubey@gmail.com
 
 
-My Resume is posted here :- https://drive.google.com/file/d/10JkSu1sw6Gb6s1aRhwIYdti1Bw8YXPme/view?usp=sharing
+My Resume is posted here :- https://drive.google.com/file/d/1DalbntGx3dHgJaAFYTMJupIEXnIeFhCn/view?usp=sharing
 
 
 <!---
