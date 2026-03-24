@@ -1,6 +1,6 @@
 As a passionate Software Development Engineer II at ZopSmart, I specialize in designing and delivering scalable, cloud-native microservices using Core Java, Spring Boot, Kafka, Kubernetes, Docker, and Cassandra. With a strong foundation in Data Structures and Algorithms, I thrive on building resilient systems that can scale to meet real-world demands.
 
-Over the past two years, I've contributed to high-impact projects that serve millions of users daily. From architecting fault-tolerant microservices to building high-throughput data pipelines with Apache Storm, I’ve led initiatives that enhanced system availability (up to 99.99%), reduced latency, and improved deployment efficiency by mentoring junior developers and championing best practices.
+Over the past three years, I've contributed to high-impact projects that serve millions of users daily. From architecting fault-tolerant microservices to building high-throughput data pipelines with Apache Storm, I’ve led initiatives that enhanced system availability (up to 99.99%), reduced latency, and improved deployment efficiency by mentoring junior developers and championing best practices.
 
 My experience spans the full software development lifecycle—from designing opinionated frameworks to implementing real-time monitoring using Grafana and DataDog. I’ve worked closely with cross-functional teams to modernize legacy systems, resolve critical production issues, and streamline processes that directly impact business performance.
 
