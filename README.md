@@ -1,19 +1,36 @@
-As a passionate Software Development Engineer II at ZopSmart, I specialize in designing and delivering scalable, cloud-native microservices using Core Java, Spring Boot, Kafka, Kubernetes, Docker, and Cassandra. With a strong foundation in Data Structures and Algorithms, I thrive on building resilient systems that can scale to meet real-world demands.
+### Hey, I'm Gaurav 👋
 
-Over the past three years, I've contributed to high-impact projects that serve millions of users daily. From architecting fault-tolerant microservices to building high-throughput data pipelines with Apache Storm, I’ve led initiatives that enhanced system availability (up to 99.99%), reduced latency, and improved deployment efficiency by mentoring junior developers and championing best practices.
+Senior Software Engineer at ZopSmart, building production-grade distributed systems in Java and Spring Boot that process 10M+ events/day across enterprise retail infrastructure.
 
-My experience spans the full software development lifecycle—from designing opinionated frameworks to implementing real-time monitoring using Grafana and DataDog. I’ve worked closely with cross-functional teams to modernize legacy systems, resolve critical production issues, and streamline processes that directly impact business performance.
+**What I work on:**
 
-What sets me apart is a continuous drive to innovate, simplify, and collaborate. I enjoy tackling complex challenges, whether it’s optimizing backend infrastructure or ensuring seamless API integration at scale. I’m always exploring new tools and techniques to stay ahead in a fast-moving tech landscape.
+I design and maintain cloud-native microservices on Kubernetes — event-driven pipelines with Kafka and Apache Storm sustaining ~10K TPS, zero-downtime migrations of 40M+ records across Cassandra and PostgreSQL, and reliability patterns (circuit breakers, DLQ recovery, idempotent processing) that eliminated cascading failures under peak load.
 
-I’m open to connecting with like-minded professionals, mentors, or anyone passionate about distributed systems, backend engineering, or cloud technologies.
+Recently, I've been deep in the **GenAI/AI Agents** space — deploying Spring AI and Model Context Protocol (MCP) servers as production AI agents, exposing backend APIs as LLM-callable tools, and integrating AI code assistants into team workflows. This cut incident triage time by ~30% for our 6-engineer team.
 
-Let’s build something scalable together.
+**Stack:**
 
-Anyone reading this can reach me at:- 546gauravdubey@gmail.com
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Cassandra` `Redis` `AWS` `Kubernetes` `Docker` `Gradle`
+`Spring AI` `MCP` `OpenAI API` `Anthropic API` `RAG`
+`Prometheus` `Grafana` `Datadog` `JUnit` `Karate` `BDD/TDD`
 
+**Some things I've shipped:**
 
-My Resume is posted here :- [https://drive.google.com/file/d/1DalbntGx3dHgJaAFYTMJupIEXnIeFhCn/view?usp=sharing](https://drive.google.com/file/d/1LHO3LyWdNs01sSvXHJ1rEIrtdmExY2x_/view?usp=sharing)
+- Reduced P95 API latency by 25% through JVM tuning, query optimization, and caching redesign
+- Cut production incident rate by 50% with resilience engineering across service boundaries
+- Revamped CI pipelines — build times from 32 min to under 10 min
+- Achieved 90%+ test coverage with BDD automation, cutting regression cycles by 50%
+- Built service templates that reduced new microservice bootstrap time by 40%
+
+**What I care about:**
+
+Distributed systems, system design, resilient architecture, and making AI agents actually useful in production — not just demos. I like working on problems where reliability, scale, and developer velocity intersect.
+
+B.Tech CS from JUET Guna (8.8 CGPA).
+
+📫 546gauravdubey@gmail.com
+📄 [Resume](https://drive.google.com/file/d/1Xach3T_5cPT-eaf60ISVjWJfzBAvqKAF/view?usp=sharing)
+🔗 [LinkedIn](https://linkedin.com/in/gaurav-dubey-79a448190)
 
 
 <!---
